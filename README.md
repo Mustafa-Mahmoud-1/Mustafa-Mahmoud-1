@@ -8,7 +8,9 @@
   - Linq
   - Entity Framework
 * Having  knowledge and experience in some software basics topics like Object Oriented,Data structure, Algorithm, Database, Solid Principles
-* Easily working with Git & GitHub 
+* Easily working with Git & GitHub
+ <img src="https://avatars.githubusercontent.com/u/166222613?v=4" align="right" width="25%"/>
+  
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mustafa-Mahmoud-1&label=Profile%20views&color=0e75b6&style=flat" alt="Mustafa-Mahmoud" /> </p>
 
