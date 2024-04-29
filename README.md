@@ -7,6 +7,7 @@
   - Ms Sql
   - Linq
   - Entity Framework
+  - Web API
 * Having  knowledge and experience in some software basics topics like Object Oriented,Data structure, Algorithm, Database, Solid Principles
 * Easily working with Git & GitHub
  <img src="https://avatars.githubusercontent.com/u/166222613?v=4" align="right" width="25%"/>
